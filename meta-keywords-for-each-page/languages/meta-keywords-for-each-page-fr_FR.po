@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Meta Keywords for Each Page 1.0.3\n"
+"Language: fr_FR\n"
+
+
+msgid "Keywords Box"
+msgstr "Boîte de mots-clés"
+
+
+msgid "Meta Keywords"
+msgstr "Mots-clés Méta"
+
+
+msgid "Enter the meta keywords for this post."
+msgstr "Entrez les mots-clés méta pour cet article."
+
+
+msgid "Add meta keywords for this taxonomy term."
+msgstr "Ajouter des mots-clés méta pour ce terme de taxonomie."
+
+
+msgid "Edit meta keywords for this taxonomy term."
+msgstr "Modifier les mots-clés méta pour ce terme de taxonomie."
+
+
+msgid "Meta Keywords Saved!"
+msgstr "Mots-clés méta enregistrés !"
+
+
+msgid "Invalid request."
+msgstr "Requête invalide."
+
+
+msgid "CSV imported successfully."
+msgstr "CSV importé avec succès."
+
+
+msgid "Export Meta Keywords (CSV)"
+msgstr "Exporter les mots-clés méta (CSV)"
+
+
+msgid "Import CSV"
+msgstr "Importer CSV"
+
+
+msgid "Save Meta Keywords"
+msgstr "Enregistrer les mots-clés méta"
+
+
+msgid "No custom post type found."
+msgstr "Aucun type de publication personnalisé trouvé."
+
+
+msgid "You do not have permission to perform this action."
+msgstr "Vous n'avez pas la permission d'effectuer cette action."

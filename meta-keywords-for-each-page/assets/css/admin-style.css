@@ -1,0 +1,66 @@
+.mkephem_import_export_section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.mkephem_import_export_section form {
+    display: inline-block;
+}
+/* File Input */
+.mkephem_import_export_section input[type="file"] {
+    max-width: 280px;
+    padding: 4px;
+    border: 1px solid #ccd0d4;
+    background: #fff;
+    font-size: 13px;
+}
+/* File Select Button */
+.mkephem_import_export_section input[type="file"]::file-selector-button {
+    background: #2271b1;
+    color: #fff;
+    border: none;
+    padding: 8px 14px;
+    margin-right: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.mkephem_import_export_section input[type="file"]::file-selector-button:hover {
+    background: #135e96;
+}
+.mkephem-meta-preview {
+    margin: 0.75em 0 1.25em;
+    padding: 0.85em 1em;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.mkephem-meta-preview label {
+    display: block;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+}
+
+.mkephem-meta-preview pre {
+    margin: 0;
+    padding: 0.75em 1em;
+    background: #fff;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+.mkephem-meta-preview code {
+    display: block;
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    color: #333;
+}
+.cpt-section {
+    width: 658px;
+}

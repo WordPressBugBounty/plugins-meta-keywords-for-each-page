@@ -1,0 +1,99 @@
+# Copyright (C) 2025 Hemant Jangir
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Meta Keywords for Each Page 1.0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/meta-keywords-for-each-page\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-10-22T09:34:11+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: meta-keywords-for-each-page\n"
+
+#. Plugin Name of the plugin
+#: meta-keywords-for-each-page.php
+msgid "Meta Keywords for Each Page"
+msgstr ""
+
+#. Description of the plugin
+#: meta-keywords-for-each-page.php
+msgid "WordPress Plugin to Enhance SEO by Adding Meta Keywords for Better Website Optimization."
+msgstr ""
+
+#. Author of the plugin
+#: meta-keywords-for-each-page.php
+msgid "Hemant Jangir"
+msgstr ""
+
+#. Author URI of the plugin
+#: meta-keywords-for-each-page.php
+msgid "https://www.linkedin.com/in/hemant-jangir-b35469190/"
+msgstr ""
+
+#: meta-keywords-for-each-page.php:36
+msgid "Keywords Box"
+msgstr ""
+
+#: meta-keywords-for-each-page.php:50
+#: meta-keywords-for-each-page.php:110
+#: meta-keywords-for-each-page.php:127
+#: meta-keywords-for-each-page.php:154
+#: meta-keywords-for-each-page.php:155
+#: meta-keywords-for-each-page.php:188
+msgid "Meta Keywords"
+msgstr ""
+
+#: meta-keywords-for-each-page.php:54
+msgid "Enter the meta keywords for this post."
+msgstr ""
+
+#: meta-keywords-for-each-page.php:112
+msgid "Add meta keywords for this taxonomy term."
+msgstr ""
+
+#: meta-keywords-for-each-page.php:131
+msgid "Edit meta keywords for this taxonomy term."
+msgstr ""
+
+#: meta-keywords-for-each-page.php:175
+msgid "Meta Keywords Saved!"
+msgstr ""
+
+#: meta-keywords-for-each-page.php:177
+#: meta-keywords-for-each-page.php:273
+#: meta-keywords-for-each-page.php:348
+msgid "Invalid request."
+msgstr ""
+
+#: meta-keywords-for-each-page.php:182
+msgid "CSV imported successfully."
+msgstr ""
+
+#: meta-keywords-for-each-page.php:194
+msgid "Export Meta Keywords (CSV)"
+msgstr ""
+
+#: meta-keywords-for-each-page.php:202
+msgid "Import CSV"
+msgstr ""
+
+#: meta-keywords-for-each-page.php:224
+msgid "Frontend URL:"
+msgstr ""
+
+#: meta-keywords-for-each-page.php:232
+msgid "Save Meta Keywords"
+msgstr ""
+
+#: meta-keywords-for-each-page.php:235
+msgid "No custom post type found."
+msgstr ""
+
+#: meta-keywords-for-each-page.php:269
+#: meta-keywords-for-each-page.php:344
+msgid "You do not have permission to perform this action."
+msgstr ""
